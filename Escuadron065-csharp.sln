@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{A918B60A-5FC9-B18D-3432-53E734E5FC9A}") = "Escuadron065", "Assembly-CSharp-firstpass-vs.csproj", "{99022F1C-EAC1-5B47-1025-3D6C24D209A5}"
 EndProject
+Project("{A918B60A-5FC9-B18D-3432-53E734E5FC9A}") = "Escuadron065", "Assembly-CSharp-vs.csproj", "{D0ADF305-50E7-781B-B81E-4C0CB7526B19}"
+EndProject
 Project("{A918B60A-5FC9-B18D-3432-53E734E5FC9A}") = "Escuadron065", "Assembly-CSharp-Editor-vs.csproj", "{83978E7B-0A2C-E021-4FE3-D318B369AF2A}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{99022F1C-EAC1-5B47-1025-3D6C24D209A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99022F1C-EAC1-5B47-1025-3D6C24D209A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99022F1C-EAC1-5B47-1025-3D6C24D209A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0ADF305-50E7-781B-B81E-4C0CB7526B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0ADF305-50E7-781B-B81E-4C0CB7526B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0ADF305-50E7-781B-B81E-4C0CB7526B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0ADF305-50E7-781B-B81E-4C0CB7526B19}.Release|Any CPU.Build.0 = Release|Any CPU
 		{83978E7B-0A2C-E021-4FE3-D318B369AF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{83978E7B-0A2C-E021-4FE3-D318B369AF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83978E7B-0A2C-E021-4FE3-D318B369AF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -23,7 +29,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-				GlobalSection(MonoDevelopProperties) = preSolution
+						GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
